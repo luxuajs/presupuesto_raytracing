@@ -84,9 +84,9 @@
 
     [sitio web](https://www.amazon.com/-/es/Kingston-escritorio-KF432C16BBAK2-32-3200-MHz/dp/B097HNF3ZQ/ref=sr_1_19?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=DDR4%2B5000%2BMHz&qid=1689519472&sr=8-19&th=1 "Informacion de las RAM")
 
-+ Almacenamiento: SSD de 1 TB ( 46$ )
++ Almacenamiento: SSD de 1 TB ( 160$ )
 
-    [sitio web](https://www.amazon.com/-/es/almacenamiento-turboescritura-inteligente-velocidades-MZ-V8V1T0B/dp/B08V83JZH4/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=20X5P12M23EFS&keywords=SSD+de+1+TB&qid=1689520236&sprefix=ssd+de+1+tb%2Caps%2C551&sr=8-2 "Informacion del SSD")
+    [sitio web](https://articulo.mercadolibre.com.ve/MLV-707659611-disco-samsung-980-m2-2280-1tb-pci-express-30-x4-nvme-_JM#position=6&search_layout=grid&type=item&tracking_id=4f93bb97-4d99-476f-b9fe-68fb61179659 "Informacion del SSD")
 + Placa base: ASUS ROG Strix Z590-E ( 265$)
 
     [sitio web](https://www.alibaba.com/product-detail/Original-new-motherboard-for-ASUS-ROG_1600878610341.html?spm=a2700.galleryofferlist.normal_offer.d_title.21ec1214WnCOE4 "Informacion de la placa")
