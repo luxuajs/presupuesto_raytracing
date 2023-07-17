@@ -99,19 +99,19 @@
 
     [sitio web](https://articulo.mercadolibre.com.ve/MLV-736814545-sistema-de-refrigeracion-liquida-msi-mag-coreliquid-240-cool-_JM#position=1&search_layout=stack&type=item&tracking_id=99f74f6e-1020-4a63-850c-7c86579638b4 "Informacion de sistema de refrigeracion")
 
-+ Monitor ( 100$ )
++ Monitor ( 149$ )
 
-    [sitio web](https://articulo.mercadolibre.com.ve/MLV-744911701-monitor-msi-optix-g24c-24-full-hd-1ms-144-hz-_JM#position=2&search_layout=grid&type=item&tracking_id=d5f94c68-91d0-4110-90e9-f238a209b7df "Informacion del monitor")
+    [sitio web](https://www.amazon.com/-/es/G241VC-Monitor-juegos-FreeSync-inclinaci%C3%B3n/dp/B07QR7KTG2/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Monitor+Msi+Optix+G24c+24+Full+Hd+1ms+144+Hz&qid=1689607616&sr=8-1 "Informacion del monitor")
 
-+ Case ( 60$ )
++ Case ( 50$ )
 
-    [sitio web](https://articulo.mercadolibre.com.ve/MLV-737208150-case-gamemax-gamer-fan-nova-n6-led-sin-fuente-otiesca-_JM#position=3&search_layout=grid&type=item&tracking_id=0a989f27-1cd8-4ab9-86c2-516f185b783c "Informacion del case")
+    [sitio web](https://articulo.mercadolibre.com.ve/MLV-729812500-case-delux-k03-gaming-gamer-juego-oficina-_JM#position=13&search_layout=grid&type=item&tracking_id=8eb90246-ebcc-44d5-a0f7-9ff924fbb0ce "Informacion del case")
 
 + Teclado y mouse ( 12$ )
 
     [sitio web](https://articulo.mercadolibre.com.ve/MLV-736440446-kit-teclado-y-mouse-gaming-gamer-luminoso-luces-pc-laptop-_JM#position=2&search_layout=grid&type=item&tracking_id=05e2f42e-34cc-4374-b42f-6c5c000ec575 "informacion de teclado/mause")
 
-+ Cable hadmi ( 3$)
++ Cable hdmi ( 3$ )
 
     [sitio web](https://articulo.mercadolibre.com.ve/MLV-702768296-cable-hdmi-de-15m-tipo-a-full-hd-y-4k-uhd-_JM#position=3&search_layout=grid&type=item&tracking_id=b26eeb32-63d0-42f2-80dd-3f57ea9578f5 "Informacion HDMI")
 
